@@ -6,7 +6,6 @@
   "mixins": [
     "DisableVanillaMonumentsMixin",
     "LocateVanillaMonumentCommandMixin",
-    "NoMagmaInStructuresMixin",
     "PersistentTridentMixin",
     "accessor.ProjectileAccessor"
   ],
